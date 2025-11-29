@@ -1,12 +1,32 @@
-# 👋 Olá, eu sou Pedro Paulo!
+# 👋 Olá, eu sou o Pedro Paulo!
 
-Sou Técnico em Desenvolvimento de Sistemas, apaixonado por tecnologia e pela criação de soluções inovadoras.  
-Durante minha formação, aprendi e pratiquei diversas linguagens e ferramentas, incluindo:
+## 🎓 Formação
+Sou **Técnico em Desenvolvimento de Sistemas**, com experiência em programação, banco de dados e desenvolvimento de aplicações multiplataforma.  
 
-- 💻 Java, C#, PHP, JavaScript  
-- 🗄️ SQL e MySQL  
-- 🛠️ Desenvolvimento de projetos práticos em C#
+## 🚀 Sobre mim
+Apaixonado por tecnologia e inovação, gosto de criar soluções que conectam saúde, bem-estar e praticidade.  
+Meu TCC foi o **MoveTech**, um sistema de treinos de musculação que une tecnologia e qualidade de vida.  
 
-🎓 Meu Trabalho de Conclusão de Curso (TCC) foi voltado para **[MoveTechApp]**, onde pude aplicar meus conhecimentos em C#, banco de dados e boas práticas de programação para criar uma solução funcional e eficiente.
+## 🛠️ Tecnologias que utilizo
+- **Linguagens:** C#, JavaScript, SQL  
+- **Frameworks:** .NET MAUI, ASP.NET Core  
+- **Banco de Dados:** MySQL, SQL Server  
+- **Ferramentas:** Visual Studio, GitHub, Figma  
 
-🚀 Estou sempre em busca de novos desafios e oportunidades para evoluir como desenvolvedor e contribuir com projetos que façam a diferença.
+## 📚 Projetos em destaque
+- [MoveTech](https://github.com/pedropaulo2b/MoveTechApp) – Aplicativo para criação e acompanhamento de treinos de musculação.  
+- Outros projetos acadêmicos e pessoais em desenvolvimento 🚧  
+
+## 🎯 Objetivos
+- Aprimorar minhas habilidades em **desenvolvimento multiplataforma**  
+- Contribuir com projetos open source  
+- Criar soluções que impactem positivamente a vida das pessoas  
+<!--
+## 📫 Como me encontrar
+- GitHub: [github.com/seuusuario](https://github.com/seuusuario)  
+- LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)  
+- Email: seuemail@dominio.com  
+-->
+---
+
+⭐️ Se gostou dos meus projetos, não esqueça de dar uma estrela nos repositórios!
